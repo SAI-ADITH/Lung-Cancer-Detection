@@ -65,7 +65,3 @@ The model is compiled using:
 
 ## Results
 The model achieved an F1 score of over 90% for each class, indicating a high level of accuracy in predicting the presence of cancerous cells in lung tissues.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-" > README.md
